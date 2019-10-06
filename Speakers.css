@@ -1,0 +1,18 @@
+h1{
+    text-align:center;
+    border: 3px black solid;
+    background-color:#7A6ED8;
+    width:200px;
+    height:100px;
+}
+body{
+    background-color:#40D8CB;
+}
+h2{
+    color:#9DD8C3;
+    font-size:30px;
+}
+h3{
+    font-size:50px;
+    text-align:center;
+}
